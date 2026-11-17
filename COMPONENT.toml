@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-gitlab-runner"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-gitlab-runner component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
